@@ -2,6 +2,9 @@
 
 The Gemini Invoice Extractor is an AI-powered tool designed to extract information from invoice images. It utilizes the Gemini AI model to analyze uploaded invoice images and respond to user queries based on the extracted information.
 
+![invoice extractor demo](https://github.com/Yusra-Zafar/gemini-invoice-extractor/assets/141744510/64aeeddf-9e84-4ce9-aa4e-f7932cb08ee7)
+
+
 ## Features
 
 - Extracts minute details from invoice images
