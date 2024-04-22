@@ -4,6 +4,10 @@ The Gemini Invoice Extractor is an AI-powered tool designed to extract informati
 
 ![invoice extractor demo](https://github.com/Yusra-Zafar/gemini-invoice-extractor/assets/141744510/64aeeddf-9e84-4ce9-aa4e-f7932cb08ee7)
 
+![1](https://github.com/Yusra-Zafar/gemini-invoice-extractor/assets/141744510/2d8da749-9ace-4d7c-82ab-9d4691a73701)
+
+![3](https://github.com/Yusra-Zafar/gemini-invoice-extractor/assets/141744510/210418b8-0b16-4bda-b549-41e6a74c014d)
+
 
 ## Features
 
